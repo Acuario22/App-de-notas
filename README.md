@@ -4,6 +4,7 @@ Saludos.
 
 Esta es una app de notas sencilla desarrollada con React Native y Expo. Permite agregar tareas, cambiar el tema de la aplicación y organizar notas de forma rápida y simple. La interfaz tiene un diseño limpio y fácil de usar.
 
+> **Nota:** Para probarlo de forma remota, necesitas tener una cuenta creada en la página de [Expo](https://expo.dev/) e iniciar sesión con esa misma cuenta en la app **Expo Go** de tu celular. De lo contrario, el QR no te dejará abrir la aplicación.
 
 **1. Ejecutar el Proyecto remotamente**
 
@@ -14,7 +15,7 @@ Ingresa al siguiente enlace para ver el código y usar el simulador virtual:
 [App de notas](https://snack.expo.dev/@acuario22/app-de-notas)
 
 
- O escanea este código QR para abrir la app en tu dispositivo:
+ O escanea este código QR directamente con la app **Expo Go** para abrirla en tu dispositivo::
  <br /><br />
 <img width="250" height="250" alt="Código QR Expo Snack" src="https://github.com/user-attachments/assets/10034682-c29c-41d9-97d4-9de18a3eb4ff" />
 <br /><br />
